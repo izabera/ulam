@@ -6,9 +6,9 @@ Various tests for generating the Ulam numbers.
 License
 -------
 
-The knulam.w is taken from Donald Knuth's page here:
+The knulam.w program is taken from Donald Knuth's page here:
 http://www-cs-faculty.stanford.edu/~uno/programs.html
-In my understanding those programs are public domain.
-All the knulam.* files have been generated from that one.
+In my understanding all those programs are public domain.
+All the files in knuth/ have been generated from that one.
 
 I'm releasing all my code and my edits to Knuth's files as public domain.
